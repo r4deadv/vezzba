@@ -1,0 +1,4 @@
+﻿Ova vežba "vezbba" sadrži nešto složeniji layout koji će biti obrađen posle praznika, ali možete pokušati da je uradite i sada.
+Praktično svi elementi su proizvoljni. Iako možete postaviti bilo koji font, ako baš želite isti, korišćen je Lato (google fonts).
+
+V.
